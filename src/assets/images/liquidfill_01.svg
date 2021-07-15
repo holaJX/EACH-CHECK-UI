@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="395.604" height="45.055" viewBox="0 0 395.604 45.055">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.052" y1="0.348" x2="0.936" y2="0.769" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f8f07c"/>
+      <stop offset="0.441" stop-color="#f6ad6c"/>
+      <stop offset="1" stop-color="#f4886b"/>
+    </linearGradient>
+  </defs>
+  <path id="路径_343" data-name="路径 343" class="cls-1" d="M15.515,453.6s58.006-18.108,124,10.81,94.614,34.052,175.047,5.675c0,0,29.9-10.81,53.364-.27s23.083,20.539,43.191,23.242H15.515Z" transform="translate(-15.515 -448.002)"/>
+</svg>

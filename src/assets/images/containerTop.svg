@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.624" height="24" viewBox="0 0 24.624 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2979ff;
+      }
+    </style>
+  </defs>
+  <path id="路径_442" data-name="路径 442" class="cls-1" d="M34.413,62.391H32.96V64.64H48.793v-24H34.413Zm2.38-7.715h5.22v2.3h-5.22Zm0,3.7h5.22v2.3h-5.22Zm19.313,4.014v-7.9l-3.25-2.421H49.589V64.632h7.995V62.391Z" transform="translate(-32.96 -40.64)"/>
+</svg>
